@@ -1,0 +1,42 @@
+h1{
+font-size: 40px;
+text-align: center;
+color: #ff0078;
+font-family: Helvetica
+}
+h2{
+font-size: 30px;
+text-align: left;
+color: #ff0078;
+font-family: Helvetica
+}
+h3{
+font-size: 30px;
+text-align: left;
+color: #ff0078;
+font-family: Helvetica, sans-serif
+}
+h4{
+font-size: 20px;
+text-align: left;
+font-weight: bold;
+font-family: Helvetica, sans-serif
+}
+h5{
+font-size: 20px;
+text-align: left;
+font-weight: bold;
+font-family: Helvetica, sans-serif
+}
+ul{font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif
+}
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif
+}
+body {
+background-color: #FFFFFF;
+}
